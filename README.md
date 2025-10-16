@@ -8,7 +8,7 @@ It allows users to explore, play, and enjoy songs with a modern interface and sm
 
 ## 🪄 Features
 
-- 🎵 Play, Pause, Next, and Previous controls  
+- 🎵 Play, Pause and loop  
 - 🎨 Elegant, Spotify-inspired UI design  
 - 🔊 Real-time audio playback using HTML5 Audio API  
 - 🧩 Custom **Wave Visualizer** animation  
@@ -32,8 +32,6 @@ It allows users to explore, play, and enjoy songs with a modern interface and sm
 - 🪶 Git & GitHub for version control
 
 ---
-
-## 📂 Folder Structure
 
 =======
 # React + Vite
